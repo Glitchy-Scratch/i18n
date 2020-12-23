@@ -1,7 +1,7 @@
 {
-    "name": "scratch-l10n",
+    "name": "glitchy-scratch-i18n",
     "version": "3.10.0",
-    "description": "Localization for the Scratch 3.0 components",
+    "description": "Localization for the Glitchy Scratch components",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
     "bin": {
@@ -37,14 +37,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/LLK/scratch-l10n.git"
+        "url": "https://github.com/Glitchy-Scratch/i18n.git"
     },
-    "author": "Massachusetts Institute of Technology",
+    "author": "Glitchy Scratch",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/LLK/scratch-l10n/issues"
+        "url": "https://github.com/Glitchy-Scratch/i18n/issues"
     },
-    "homepage": "https://github.com/LLK/scratch-l10n#readme",
+    "homepage": "https://github.com/Glitchy-Scratch/i18n#readme",
     "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",
