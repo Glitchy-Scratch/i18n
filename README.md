@@ -1,4 +1,4 @@
-# scratch-l10n
+# Glitchy Scratch I18N
 
 Localisation of all Glitchy Scratch components.
 
@@ -6,10 +6,26 @@ Localisation of all Glitchy Scratch components.
 
 #### Installation
 
-You can install this package with-
+You can install this package with NPM as a dev dependency-
 ```Bash
-npm install --save-dev glitchyscratch-l10n
+npm install --save-dev glitchyscratch-i18n
 ```
+or simply as a dependency with-
+```Bash
+npm install glitchyscratch-i18n
+```
+. You can also use Yarn-
+```Bash
+yarn add glitchyscratch-i18n
+```
+. Optionally, can also build it from source using Git-
+```
+git clone https://github.com/Glitchy-Scratch/i18n.git
+cd i18n
+npm install
+```
+.
+
 #### Basic Use
 ```JavaScript
 import locales, {localeData, isRtl} from 'scratch-l10n';
