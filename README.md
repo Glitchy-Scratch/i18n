@@ -28,8 +28,8 @@ npm install
 
 #### Basic Use
 ```JavaScript
-import locales, {localeData, isRtl} from 'scratch-l10n';
-import editorMessages from 'scratch-l10n/locales/editor-messages';
+import locales, {localeData, isRtl} from 'glitchyscratch-i18n';
+import editorMessages from 'glitchyscratch-i18n/locales/editor-messages';
 ```
 * ``locales``: currently supported locales for the Scratch project
 * ``isRtl``: function that returns true if the locale is one that is written right-to-left
