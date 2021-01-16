@@ -2,7 +2,7 @@
 
 Localisation of all Glitchy Scratch components.
 
-## Using glitchyscratch-l10n in development
+## Using glitchyscratch-i18n in development
 
 #### Installation
 
