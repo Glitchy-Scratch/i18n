@@ -3,3 +3,6 @@
 .eslint*
 .jshintrc
 webpack.config.js
+
+# GitHub workflows, templates, Dependabot configuration
+.github/
