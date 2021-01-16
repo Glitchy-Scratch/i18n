@@ -33,7 +33,6 @@ const validMessage = (message, source) => {
     if (transPlaceholders.length !== srcPlaceholders.length) {
         return false;
     }
-    // TODO: Add checking to make sure placeholders in source have not been translated
     return true;
 };
 
