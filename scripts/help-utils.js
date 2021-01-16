@@ -70,7 +70,6 @@ exports.getInputs = async () => {
  * @param  {[type]}  json     [description]
  * @param  {[type]}  resource [description]
  * @param  {[type]}  locale   [description]
- * @return {Promise}          [description]
  */
 const serializeNameSave = async (json, resource, locale) => {
     for (let [key, value] of Object.entries(json)) {
@@ -136,7 +135,6 @@ const serializeFolderSave = async (json, locale) => {
  * Process Transifex resource corresponding to a Knowledge base folder on Freshdesk
  * @param  {object}  folder Transifex resource json corresponding to a KB folder
  * @param  {string}  locale locale to pull and submit to Freshdesk
- * @return {Promise}        [description]
  */
 exports.localizeFolder = async (folder, locale) => {
     getTranslation(TX_PROJECT, folder.slug, locale, {mode: 'default'})
@@ -155,7 +153,6 @@ exports.localizeFolder = async (folder, locale) => {
  * Save Transifex resource corresponding to a Knowledge base folder locally for debugging
  * @param  {object}  folder Transifex resource json corresponding to a KB folder
  * @param  {string}  locale locale to pull and save
- * @return {Promise}        [description]
  */
 exports.debugFolder = async (folder, locale) => {
     mkdirp.sync('tmpDebug');
@@ -178,7 +175,6 @@ exports.debugFolder = async (folder, locale) => {
  * Category and Folder names are stored as plain json
  * @param  {object}  resource Transifex resource json for either CategoryNames or FolderNames
  * @param  {string}  locale   locale to pull and submit to Freshdesk
- * @return {Promise}          [description]
  */
 exports.localizeNames = async (resource, locale) => {
     getTranslation(TX_PROJECT, resource.slug, locale, {mode: 'default'})
