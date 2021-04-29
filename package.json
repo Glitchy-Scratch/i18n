@@ -77,7 +77,7 @@
         "lodash.defaultsdeep": "4.6.1",
         "mkdirp": "^1.0.4",
         "node-fetch": "^2.6.0",
-        "p-limit": "2.1.0",
+        "p-limit": "3.1.0",
         "p-queue": "3.0.0",
         "react-intl": "2.8.0",
         "rimraf": "^3.0.2",
