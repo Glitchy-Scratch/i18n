@@ -81,7 +81,7 @@
         "p-queue": "3.0.0",
         "react-intl": "2.8.0",
         "rimraf": "^3.0.2",
-        "webpack": "^4.46.0",
+        "webpack": "^5.36.1",
         "webpack-cli": "^4.6.0"
     }
 }
