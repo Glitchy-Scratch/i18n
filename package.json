@@ -69,7 +69,7 @@
         "eslint-plugin-import": "^2.8.0",
         "eslint-plugin-react": "^7.23.2",
         "format-message-cli": "6.2.3",
-        "format-message-parse": "6.2.0",
+        "format-message-parse": "6.2.3",
         "glob": "7.1.6",
         "jshint": "2.12.0",
         "json": "^11.0.0",
