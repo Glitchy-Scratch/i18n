@@ -62,7 +62,7 @@
         "@babel/preset-env": "^7.9.5",
         "@babel/preset-react": "^7.0.0",
         "async": "2.6.1",
-        "babel-eslint": "^8.0.1",
+        "babel-eslint": "^10.1.0",
         "babel-loader": "8.2.2",
         "eslint": "^5.16.0",
         "eslint-config-scratch": "^5.1.0",
