@@ -45,22 +45,5 @@
     "project.cloudVariables": "Variáveis em Nuvem",
     "project.cloudDataLink": "Ver dados",
     "project.usernameBlockAlert": "O projeto pode detectar quem está utilizando, por meio do bloco \"nome de usuário\". Para esconder sua identidade, saia do sistema antes de usar o projeto. ",
-    "project.inappropriateUpdate": "Hmm... o detector de palavrões encontrou um problema no seu texto. Por favor altere-o e lembre-se de ser respeitoso.",
-    "comment.type.disrespectful": "O Scratch acha seu último comentário desrespeitoso.",
-    "comment.disrespectful.header": "Seja sempre amigável e respeitoso ao usar o Scratch.",
-    "comment.disrespectful.content1": "O filtro de comentários do Scratch acha o seu comentário desrespeitoso.",
-    "comment.disrespectful.content2": "Lembre-se: Tem uma pessoa por trás de toda conta do Scratch e comentários rudes podem ferir os sentimentos de alguém.",
-    "comment.type.pii": "O filtro de comentário do Scratch achou que o seu comentário mais recente estava compartilhando ou pedindo informações pessoais.",
-    "comment.pii.header": "Nunca compartilhe informações pessoais no Scratch.",
-    "comment.pii.content1": "O filtro de comentário acha que no seu comentário, você estava compartilhando ou pedindo informações pessoais.",
-    "comment.pii.content2": "Tudo o que você compartilha no Scratch pode ser visto por qualquer um, e aparecer em pesquisas na web. Informações privadas podem ser usadas por outros de formas perigosas, então é importante mantê-las em segredo.",
-    "comment.pii.content3": "Isso é um problema sério de segurança.",
-    "comment.type.unconstructive": "O filtro de comentário do Scratch achou que o seu comentário mais recente dizia algo ruim sobre o projeto de outra pessoa.",
-    "comment.unconstructive.header": "Seja sempre encorajador ao comentar nos projetos dos outros.",
-    "comment.unconstructive.content1": "O filtro de comentário do Scratch acha que o seu comentário dizia algo ruim ou rude sobre o projeto de alguém.",
-    "comment.unconstructive.content2": "Se você acha que algo podia ser melhor, você pode dizer algo que gosta sobre o projeto, e fazer uma sugestão sobre como aprimorá-lo.",
-    "comment.type.vulgarity": "O filtro de comentário do Scratch encontrou um palavrão no seu comentário mais recente.",
-    "comment.vulgarity.header": "Somente use linguagem apropriada para todas as idades.",
-    "comment.vulgarity.content1": "O filtro de comentário do Scratch acha que o seu comentário contém um palavrão.",
-    "comment.vulgarity.content2": "Pessoas de todas as idades usam o Scratch, então é importante usar linguagem apropriada para todos."
+    "project.inappropriateUpdate": "Hmm... o detector de palavrões encontrou um problema no seu texto. Por favor altere-o e lembre-se de ser respeitoso."
 }
