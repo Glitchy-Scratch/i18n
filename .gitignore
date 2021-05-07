@@ -3,7 +3,6 @@
 
 # NPM
 /node_modules
-npm-*
 
 # generated build files
 /dist
