@@ -35,6 +35,9 @@
         "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
         "validate:www": "babel-node scripts/validate-www ./www"
     },
+    "engines": {
+        "node": ">=10"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/Glitchy-Scratch/i18n.git"
