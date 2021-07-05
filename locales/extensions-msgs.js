@@ -3745,7 +3745,7 @@ export default {
     "microbit.tiltDirectionMenu.right": "derecha",
     "microbit.whenButtonPressed": "al presionar botón [BTN]",
     "microbit.whenGesture": "al [GESTURE]",
-    "microbit.whenPinConnected": "al inclinar hacia [PIN]",
+    "microbit.whenPinConnected": "al conectar pin [PIN]",
     "microbit.whenTilted": "al inclinar [DIRECTION]",
     "music.categoryName": "Música",
     "music.changeTempo": "cambiar el tempo en [TEMPO]",
