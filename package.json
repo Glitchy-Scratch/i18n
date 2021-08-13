@@ -36,7 +36,7 @@
         "validate:www": "babel-node scripts/validate-www ./www"
     },
     "engines": {
-        "node": ">=10"
+        "node": ">=12"
     },
     "repository": {
         "type": "git",
