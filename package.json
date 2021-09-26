@@ -73,7 +73,7 @@
         "eslint-plugin-react": "^7.24.0",
         "format-message-cli": "6.2.3",
         "format-message-parse": "6.2.3",
-        "glob": "7.1.7",
+        "glob": "7.2.0",
         "jshint": "2.13.1",
         "json": "^11.0.0",
         "jsonlint": "1.6.3",
