@@ -4,6 +4,7 @@ module.exports = {
     bail: true,
     mode: process.env.NODE_ENV === 'production' ? 'production' : 'development',
     devtool: 'cheap-module-source-map',
+    experiments.backCompat: false,
     module: {
         rules: [{
             test: /\.js$/,
