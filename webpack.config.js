@@ -6,7 +6,7 @@ module.exports = {
     devtool: 'cheap-module-source-map',
     experiments: {
         backCompat: false,
-        futureDefaults: true,
+        futureDefaults: true
     },
     module: {
         rules: [{
