@@ -50,7 +50,7 @@
     "homepage": "https://github.com/Glitchy-Scratch/i18n#readme",
     "dependencies": {
         "@babel/cli": "^7.16.0",
-        "@babel/core": "^7.16.0",
+        "@babel/core": "^7.17.0",
         "ajv": "^6.12.6",
         "babel-plugin-react-intl": "^8.2.25",
         "react": "^16.14.0",
