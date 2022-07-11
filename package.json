@@ -74,7 +74,7 @@
         "format-message-cli": "6.2.3",
         "format-message-parse": "6.2.3",
         "glob": "7.2.0",
-        "jshint": "^2.13.2",
+        "jshint": "^2.13.5",
         "json": "^11.0.0",
         "lodash.defaultsdeep": "4.6.1",
         "mkdirp": "^1.0.4",
